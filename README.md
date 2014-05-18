@@ -1,4 +1,9 @@
 Getdogecoin
 ===========
-This is a C client for getdogecoin.com
-Much open source, very trust, many platform, so wow scrypt coin
+This is a C client for getdogecoin.com<br />
+
+Building
+========
+
+You will need Libcurl to build this project.
+If you uses Linux, you will need Pthread.
